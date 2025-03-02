@@ -42,7 +42,7 @@ For more information about this dataset, please refer to the following paper:
 
 ## **Hardware Specifications**
 This project was tested using the following hardware:
-- **CPU**: Intel Core i5-10850H
+- **CPU**: Intel Core i7-10850H
 - **GPU**: NVIDIA Quadro RTX 3000 (6GB VRAM)
 - **RAM**: 64GB
 - **Storage**: SSD (to speed up the training and inference process)
