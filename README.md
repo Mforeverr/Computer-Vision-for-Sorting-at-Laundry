@@ -102,7 +102,7 @@ The following is a list of activities that have been successfully completed in t
 ---
 
 ## **Achieved Results**
-- **Detection Accuracy**: The model successfully detected objects with fairly high accuracy on the custom dataset.
+- **Detection Accuracy**: The model successfully detected objects with fairly low-mid accuracy on the custom dataset.
 - **Real-Time Performance**: Inference ran smoothly on the GPU, with a frame rate sufficient for real-time applications.
 - **Ease of Integration**: The project can easily be integrated into other applications or run independently.
 
