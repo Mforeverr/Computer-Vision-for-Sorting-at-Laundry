@@ -246,5 +246,5 @@ If you wish to contribute to this project, please open an issue or pull request 
 
 ---
 
-## Lisensi
-Proyek ini dilisensikan di bawah [GPL-3.0 License](LICENSE)..
+## License
+This project is licensed under the [GPL-3.0 License](LICENSE)..
