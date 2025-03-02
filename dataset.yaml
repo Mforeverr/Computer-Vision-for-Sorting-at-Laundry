@@ -1,0 +1,11 @@
+# dataset.yaml
+
+train: C:\trialopencv\aRTFClothes\images\train  # Folder gambar pelatihan
+val: C:\trialopencv\aRTFClothes\images\test     # Folder gambar validasi
+
+nc: 4  # Jumlah kelas
+names: ['boxershorts', 'shorts', 'towels', 'tshirts']  # Nama kelas
+
+format: COCO
+coco_annotations_train: C:\trialopencv\aRTFClothes\annotations\train_annotations_updated.json
+coco_annotations_val: C:\trialopencv\aRTFClothes\annotations\test_annotations_updated.json
