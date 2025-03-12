@@ -1,5 +1,6 @@
-![R_curve](https://github.com/user-attachments/assets/99fcbc3c-ada7-4f14-b3a6-1e3d8c016318)
-# **Computer Vision for Laundry Sorting**
+
+# **Computer Vision for L![train_batch0](https://github.com/user-attachments/assets/b2004ad3-2f22-4057-89b3-25ba40c5eeef)
+aundry Sorting**
 
 ## **Project Description**
 This project is an implementation of **object detection using the YOLOv8 model** for **computer vision** applications in clothing categories. The main goal of this project is to build an MVP (Minimum Viable Product) system that can detect and classify clothing categories in real-time during the sorting process.
@@ -109,7 +110,7 @@ The following is a list of activities that have been successfully completed in t
 
 ![R_curve](https://github.com/user-attachments/assets/8ae4d5ff-7252-4246-b3ae-731c2d770b02)
 ![PR_curve](https://github.com/user-attachments/assets/e77fae74-7916-4d76-9098-37e4d0e783a1)
-![P_curve](https![PR_curve](https://github.com/user-attachments/assets/ad831417-66f8-4efa-a0a9-46cfb3b4f3db)
+![P_curve](https://github.com/user-attachments/assets/ad831417-66f8-4efa-a0a9-46cfb3b4f3db)
 ![results](https://github.com/user-attachments/assets/8cb14965-dff8-44df-a866-84d5bdd4c2ae)
 
 ---
