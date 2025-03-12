@@ -1,4 +1,4 @@
-
+![R_curve](https://github.com/user-attachments/assets/99fcbc3c-ada7-4f14-b3a6-1e3d8c016318)
 # **Computer Vision for Laundry Sorting**
 
 ## **Project Description**
@@ -105,6 +105,12 @@ The following is a list of activities that have been successfully completed in t
 - **Detection Accuracy**: The model successfully detected objects with fairly low-mid accuracy on the custom dataset.
 - **Real-Time Performance**: Inference ran smoothly on the GPU, with a frame rate sufficient for real-time applications.
 - **Ease of Integration**: The project can easily be integrated into other applications or run independently.
+---
+
+![R_curve](https://github.com/user-attachments/assets/8ae4d5ff-7252-4246-b3ae-731c2d770b02)
+![PR_curve](https://github.com/user-attachments/assets/e77fae74-7916-4d76-9098-37e4d0e783a1)
+![P_curve](https![PR_curve](https://github.com/user-attachments/assets/ad831417-66f8-4efa-a0a9-46cfb3b4f3db)
+![results](https://github.com/user-attachments/assets/8cb14965-dff8-44df-a866-84d5bdd4c2ae)
 
 ---
 
